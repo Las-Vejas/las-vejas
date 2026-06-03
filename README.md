@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I'm Vejas
+I am a student from Luxembourg currently working on projects at Hack Club.
+I'm currently learning React, Python, and stuff related to webdev.
 
+I really like making hardware projects related to IoT and embedded systems, working with things like RP2040 or ESP32. Feel free to check out some of my projects like ![Kaze](https://github.com/las-vejas/kaze) my IoT air sensor, or ![Twin](https://github.com/las-vejas/twin) my IoT capable macropad.
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=las-vejas&color=red&style=plastic)
 <!--
 **Las-Vejas/las-vejas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
